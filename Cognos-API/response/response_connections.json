@@ -1,0 +1,62 @@
+{
+  "connections": [
+    {
+      "modificationTime": "2020-10-06T13:38:20.251Z",
+      "id": "i603236D46B6541D4908C19038F0F6135",
+      "type": "dataSourceConnection",
+      "defaultName": "cpimat07",
+      "version": 5,
+      "hidden": false,
+      "disabled": false,
+      "connectionString": "^User ID:^?Password:;LOCAL;OR;ORACLE@%s@cpimat07/%s@COLSEQ=IBM_JD_CNX_STR:^User ID:^?Password:;LOCAL;JD-OR;URL=jdbc:oracle:thin:@//db-gda71.its.centric.lan:1521/cpimat07;DRIVER_NAME=oracle.jdbc.OracleDriver",
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB/connections/i603236D46B6541D4908C19038F0F6135"
+        },
+        {
+          "rel": "signons",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB/connections/i603236D46B6541D4908C19038F0F6135/signons"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-10-02T06:42:07.356Z",
+      "id": "iADBE455BDC4F438B9AC3525BC09859F2",
+      "type": "dataSourceConnection",
+      "defaultName": "Motion​Alpha",
+      "version": 17,
+      "hidden": false,
+      "disabled": true,
+      "connectionString": "^User ID:^?Password:;LOCAL;JD-SS;URL=jdbc:sqlserver://BT- SQL.devtestlab.ro.centric.lan:1433;INSTANCE=MotionAlpha;DRIVER_NAME=com.microsoft.sqlserver.jdbc.SQLServerDriver;",
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB/connections/iADBE455BDC4F438B9AC3525BC09859F2"
+        },
+        {
+          "rel": "signons",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB/connections/iADBE455BDC4F438B9AC3525BC09859F2/signons"
+        }
+      ]
+    }
+  ]
+}

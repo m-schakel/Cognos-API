@@ -1,0 +1,430 @@
+{
+  "content": [
+    {
+      "modificationTime": "2020-12-02T09:15:00.328Z",
+      "defaultName": "Business Analytics",
+      "id": "iAAF23602B7C045F195F9EA7A6DE9A2FB",
+      "type": "folder",
+      "version": 7,
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iAAF23602B7C045F195F9EA7A6DE9A2FB"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iAAF23602B7C045F195F9EA7A6DE9A2FB/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-11-13T14:55:10.158Z",
+      "defaultName": "Centric intern",
+      "id": "i472F47399704465BB70FDAB5D622342B",
+      "type": "folder",
+      "version": 3,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i472F47399704465BB70FDAB5D622342B"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i472F47399704465BB70FDAB5D622342B/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-08-24T13:24:28.428Z",
+      "defaultName": "Sjablonen",
+      "id": "i43AAA0A8D20945A29F02DF6D5A9C46C3",
+      "type": "folder",
+      "version": 13,
+      "owner": [
+        {
+          "userName": "BKrijgsm",
+          "defaultName": "Krijgsman, Bastiaan"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i43AAA0A8D20945A29F02DF6D5A9C46C3"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i43AAA0A8D20945A29F02DF6D5A9C46C3/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-12-18T11:12:56.319Z",
+      "defaultName": "Beheer",
+      "id": "i6B8B8CFAA43C47898FEF0D0E9CF5C69E",
+      "type": "folder",
+      "version": 4,
+      "owner": [
+        {
+          "userName": "jholland",
+          "defaultName": "Hollander, Jeroen den"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i6B8B8CFAA43C47898FEF0D0E9CF5C69E"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i6B8B8CFAA43C47898FEF0D0E9CF5C69E/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-12-07T16:25:24.894Z",
+      "defaultName": "Bedrijfsvoering",
+      "id": "iC682CCB6C09F40EDADC100277BD324B3",
+      "type": "folder",
+      "version": 12,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iC682CCB6C09F40EDADC100277BD324B3"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iC682CCB6C09F40EDADC100277BD324B3/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2019-11-01T13:37:21.094Z",
+      "defaultName": "BU Belastingen",
+      "id": "i4BA4A04386C1483CA4CE2F6076AC4301",
+      "type": "folder",
+      "version": 5,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i4BA4A04386C1483CA4CE2F6076AC4301"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i4BA4A04386C1483CA4CE2F6076AC4301/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2019-07-19T08:10:55.873Z",
+      "defaultName": "Integrated Solutions",
+      "id": "i1F050E7DD4E94D9EA0F6C394DCB46723",
+      "type": "folder",
+      "version": 5,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i1F050E7DD4E94D9EA0F6C394DCB46723"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i1F050E7DD4E94D9EA0F6C394DCB46723/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-07-15T11:46:31.402Z",
+      "defaultName": "Leefomgeving & Zaken",
+      "id": "i46CDC5DC97A1471B8256B1B91E6054E2",
+      "type": "folder",
+      "version": 8,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i46CDC5DC97A1471B8256B1B91E6054E2"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i46CDC5DC97A1471B8256B1B91E6054E2/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-09-07T08:42:57.487Z",
+      "defaultName": "Persoonsinformatie voorziening",
+      "id": "i390EF072EA584725B7083B38D626A1D6",
+      "type": "folder",
+      "version": 15,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i390EF072EA584725B7083B38D626A1D6"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i390EF072EA584725B7083B38D626A1D6/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-01-06T09:26:29.652Z",
+      "defaultName": "Sociaal Domein",
+      "id": "iC46BE037DA9F4007BF6B5502784B14A9",
+      "type": "folder",
+      "version": 3,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iC46BE037DA9F4007BF6B5502784B14A9"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iC46BE037DA9F4007BF6B5502784B14A9/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-09-14T11:57:05.296Z",
+      "defaultName": "IBM Cognos Samples",
+      "id": "i56014AB74DAC4954B3B5F635EA38B386",
+      "type": "folder",
+      "version": 13,
+      "owner": [
+        {
+          "userName": "HBlom",
+          "defaultName": "Blom, Hubert"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i56014AB74DAC4954B3B5F635EA38B386"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i56014AB74DAC4954B3B5F635EA38B386/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-09-02T08:22:35.277Z",
+      "defaultName": "HR & Payroll",
+      "id": "iD1ECC5BC3FA14A9AA56305C6B90C5B80",
+      "type": "folder",
+      "version": 6,
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iD1ECC5BC3FA14A9AA56305C6B90C5B80"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iD1ECC5BC3FA14A9AA56305C6B90C5B80/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-05-19T11:43:34.093Z",
+      "defaultName": "IBM Samples oefeningen",
+      "id": "i1715A75F15E74BEEA4001F5C8852E3F3",
+      "type": "folder",
+      "version": 2,
+      "owner": [
+        {
+          "userName": "htitulae",
+          "defaultName": "Titulaer, Hidde"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i1715A75F15E74BEEA4001F5C8852E3F3"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i1715A75F15E74BEEA4001F5C8852E3F3/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2019-12-10T19:06:51.792Z",
+      "defaultName": "Templates",
+      "id": "i49399E565E2946118718DA6182D504E5",
+      "type": "folder",
+      "version": 7,
+      "owner": [
+        {
+          "userName": "BKrijgsm",
+          "defaultName": "Krijgsman, Bastiaan"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i49399E565E2946118718DA6182D504E5"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i49399E565E2946118718DA6182D504E5/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2021-01-20T11:45:18.144Z",
+      "defaultName": "Suite4Sociaal Domein (afblijven aub)",
+      "id": "i96A5B637F9AF4960BBEA04AB9011E96B",
+      "type": "folder",
+      "version": 1,
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i96A5B637F9AF4960BBEA04AB9011E96B"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i96A5B637F9AF4960BBEA04AB9011E96B/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-05-14T13:33:30.527Z",
+      "defaultName": "OMA package",
+      "id": "iF8E5C99B64454B139F99688535E9BC3E",
+      "type": "package",
+      "version": 1,
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iF8E5C99B64454B139F99688535E9BC3E"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iF8E5C99B64454B139F99688535E9BC3E/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2020-09-29T14:00:38.863Z",
+      "defaultName": "Samples",
+      "id": "i6E224A824DC449E7BD1CBD78C60E0062",
+      "type": "folder",
+      "version": 1,
+      "owner": [
+        {
+          "userName": "jholland",
+          "defaultName": "Hollander, Jeroen den"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/i6E224A824DC449E7BD1CBD78C60E0062"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/i6E224A824DC449E7BD1CBD78C60E0062/items"
+        }
+      ]
+    },
+    {
+      "modificationTime": "2021-02-07T16:30:14.765Z",
+      "defaultName": "Klanten",
+      "id": "iBCA9608B71764C479168DE009AF8BAFB",
+      "type": "folder",
+      "version": 2,
+      "owner": [
+        {
+          "userName": "MSchakel",
+          "defaultName": "Schakel, Michiel"
+        }
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/content/iBCA9608B71764C479168DE009AF8BAFB"
+        },
+        {
+          "rel": "items",
+          "type": "application/json",
+          "href": "/api/v1/content/iBCA9608B71764C479168DE009AF8BAFB/items"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "dataSources": [
+    {
+      "modificationTime": "2019-12-23T16:33:04.519Z",
+      "id": "iDA0370B4181C448B8F5A6EC5CF6E244A",
+      "type": "dataSource",
+      "defaultName": "Key2Financien",
+      "version": 9,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iDA0370B4181C448B8F5A6EC5CF6E244A"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iDA0370B4181C448B8F5A6EC5CF6E244A/connections"
+        }
+      ],
+      "creationTime": "2019-07-09T07:35:46.806Z"
+    },
+    {
+      "modificationTime": "2021-01-21T14:52:54.291Z",
+      "id": "iB2A43308F4AA472BAC95A293C5AD607B",
+      "type": "dataSource",
+      "defaultName": "GWS4all",
+      "version": 4,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB2A43308F4AA472BAC95A293C5AD607B"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB2A43308F4AA472BAC95A293C5AD607B/connections"
+        }
+      ],
+      "creationTime": "2019-11-28T09:25:05.299Z"
+    },
+    {
+      "modificationTime": "2020-05-19T11:50:28.069Z",
+      "id": "i3B3C0850900045E49B4027731F5382D6",
+      "type": "dataSource",
+      "defaultName": "Weather Company",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i3B3C0850900045E49B4027731F5382D6"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i3B3C0850900045E49B4027731F5382D6/connections"
+        }
+      ],
+      "creationTime": "2019-06-25T16:14:45.951Z"
+    },
+    {
+      "modificationTime": "2019-12-09T09:59:03.342Z",
+      "id": "iCE01DBD08C4845438547697A5E5A3B38",
+      "type": "dataSource",
+      "defaultName": "Key2Begraven",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iCE01DBD08C4845438547697A5E5A3B38"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iCE01DBD08C4845438547697A5E5A3B38/connections"
+        }
+      ],
+      "creationTime": "2019-07-24T13:28:53.196Z"
+    },
+    {
+      "modificationTime": "2019-07-19T14:05:38.423Z",
+      "id": "i15131EDAA63C4951B43200884C587E7B",
+      "type": "dataSource",
+      "defaultName": "Sales Planning",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i15131EDAA63C4951B43200884C587E7B"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i15131EDAA63C4951B43200884C587E7B/connections"
+        }
+      ],
+      "creationTime": "2017-09-28T15:06:10.367Z"
+    },
+    {
+      "modificationTime": "2019-07-19T14:05:38.377Z",
+      "id": "i31DB1674C4FE4A129F8A88B416410CA5",
+      "type": "dataSource",
+      "defaultName": "SmartcoPA",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i31DB1674C4FE4A129F8A88B416410CA5"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i31DB1674C4FE4A129F8A88B416410CA5/connections"
+        }
+      ],
+      "creationTime": "2019-04-25T17:11:11.547Z"
+    },
+    {
+      "modificationTime": "2019-07-19T14:05:38.383Z",
+      "id": "i33B7EFEE08C6486B8ACF599FBED1010B",
+      "type": "dataSource",
+      "defaultName": "CarSalesPA",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i33B7EFEE08C6486B8ACF599FBED1010B"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i33B7EFEE08C6486B8ACF599FBED1010B/connections"
+        }
+      ],
+      "creationTime": "2019-04-25T17:15:34.180Z"
+    },
+    {
+      "modificationTime": "2020-08-31T08:15:30.906Z",
+      "id": "i226FCEA3C05F468DAA3B58DA8199C7F9",
+      "type": "dataSource",
+      "defaultName": "great_outdoors_warehouse",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i226FCEA3C05F468DAA3B58DA8199C7F9"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i226FCEA3C05F468DAA3B58DA8199C7F9/connections"
+        }
+      ],
+      "creationTime": "2016-05-04T10:49:37.489Z"
+    },
+    {
+      "modificationTime": "2020-05-26T09:06:15.487Z",
+      "id": "iBC0F23F6DC1E48889EE14D554A7C11B2",
+      "type": "dataSource",
+      "defaultName": "GreenLine",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iBC0F23F6DC1E48889EE14D554A7C11B2"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iBC0F23F6DC1E48889EE14D554A7C11B2/connections"
+        }
+      ],
+      "creationTime": "2020-03-09T13:26:03.379Z"
+    },
+    {
+      "modificationTime": "2020-09-23T12:28:58.481Z",
+      "id": "iDF633C29ADD74CEC862D1828124E40ED",
+      "type": "dataSource",
+      "defaultName": "Key2Betalen",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iDF633C29ADD74CEC862D1828124E40ED"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iDF633C29ADD74CEC862D1828124E40ED/connections"
+        }
+      ],
+      "creationTime": "2016-04-08T14:54:09.401Z"
+    },
+    {
+      "modificationTime": "2020-08-31T08:14:51.497Z",
+      "id": "iB431C60176A94CFC8CF47E4D2D116893",
+      "type": "dataSource",
+      "defaultName": "great_outdoors_sales",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB431C60176A94CFC8CF47E4D2D116893"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB431C60176A94CFC8CF47E4D2D116893/connections"
+        }
+      ],
+      "creationTime": "2016-05-04T10:48:52.498Z"
+    },
+    {
+      "modificationTime": "2020-05-12T08:13:44.981Z",
+      "id": "iA555C4DC85154843B080D995225B32EB",
+      "type": "dataSource",
+      "defaultName": "Motion",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA555C4DC85154843B080D995225B32EB/connections"
+        }
+      ],
+      "creationTime": "2020-01-06T07:30:16.668Z"
+    },
+    {
+      "modificationTime": "2020-11-25T12:35:34.980Z",
+      "id": "i967BC894DF3746C89599983444875310",
+      "type": "dataSource",
+      "defaultName": "Suite Sociale Regie",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i967BC894DF3746C89599983444875310"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i967BC894DF3746C89599983444875310/connections"
+        }
+      ],
+      "creationTime": "2020-01-09T11:05:30.793Z"
+    },
+    {
+      "modificationTime": "2020-10-19T13:20:51.528Z",
+      "id": "i592166EE7618464393EFCDEEB6A53AAE",
+      "type": "dataSource",
+      "defaultName": "BAG",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i592166EE7618464393EFCDEEB6A53AAE"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i592166EE7618464393EFCDEEB6A53AAE/connections"
+        }
+      ],
+      "creationTime": "2019-11-01T10:30:30.019Z"
+    },
+    {
+      "modificationTime": "2020-10-19T12:38:58.210Z",
+      "id": "i6C8661BEE6FA4E4EA4FE9388EC70BADA",
+      "type": "dataSource",
+      "defaultName": "Key2Belastingen",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i6C8661BEE6FA4E4EA4FE9388EC70BADA"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i6C8661BEE6FA4E4EA4FE9388EC70BADA/connections"
+        }
+      ],
+      "creationTime": "2019-11-01T10:37:21.108Z"
+    },
+    {
+      "modificationTime": "2020-03-03T15:08:00.146Z",
+      "id": "i4000B9E677414AD387FF7479FD11B11A",
+      "type": "dataSource",
+      "defaultName": "Itil4all",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i4000B9E677414AD387FF7479FD11B11A"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i4000B9E677414AD387FF7479FD11B11A/connections"
+        }
+      ],
+      "creationTime": "2007-06-08T11:47:53.323Z"
+    },
+    {
+      "modificationTime": "2020-03-04T08:26:53.838Z",
+      "id": "iE86ADB27C0024FD385E412885AA76C61",
+      "type": "dataSource",
+      "defaultName": "OMAP",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iE86ADB27C0024FD385E412885AA76C61"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iE86ADB27C0024FD385E412885AA76C61/connections"
+        }
+      ],
+      "creationTime": "2006-10-23T09:55:00.959Z"
+    },
+    {
+      "modificationTime": "2020-08-31T08:17:01.846Z",
+      "id": "i90CC561B580B4D389066BF3109652878",
+      "type": "dataSource",
+      "defaultName": "Key2Subsidies",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i90CC561B580B4D389066BF3109652878"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i90CC561B580B4D389066BF3109652878/connections"
+        }
+      ],
+      "creationTime": "2014-02-14T08:15:56.332Z"
+    },
+    {
+      "modificationTime": "2019-12-04T10:44:01.857Z",
+      "id": "i48C58112598E4DF7AB9A34A5ACAA91AD",
+      "type": "dataSource",
+      "defaultName": "ContentStore",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i48C58112598E4DF7AB9A34A5ACAA91AD"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i48C58112598E4DF7AB9A34A5ACAA91AD/connections"
+        }
+      ],
+      "creationTime": "2017-06-27T08:02:18.531Z"
+    },
+    {
+      "modificationTime": "2020-10-16T07:26:19.485Z",
+      "id": "i96950928815F4A53BE5D942142EC6525",
+      "type": "dataSource",
+      "defaultName": "K2F-Budgetbewaking",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i96950928815F4A53BE5D942142EC6525"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i96950928815F4A53BE5D942142EC6525/connections"
+        }
+      ],
+      "creationTime": "2020-10-16T07:24:16.092Z"
+    },
+    {
+      "modificationTime": "2020-11-17T15:21:23.023Z",
+      "id": "i8378EBEF70194B938399434F99C788DA",
+      "type": "dataSource",
+      "defaultName": "CS Solutions",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i8378EBEF70194B938399434F99C788DA"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i8378EBEF70194B938399434F99C788DA/connections"
+        }
+      ],
+      "creationTime": "2020-11-17T15:21:21.898Z"
+    },
+    {
+      "modificationTime": "2020-12-21T15:45:56.115Z",
+      "id": "i1A76ED3614E140B19AE2FA2721EE0852",
+      "type": "dataSource",
+      "defaultName": "dwh (Azure)",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i1A76ED3614E140B19AE2FA2721EE0852"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i1A76ED3614E140B19AE2FA2721EE0852/connections"
+        }
+      ],
+      "creationTime": "2020-12-02T15:01:22.161Z"
+    },
+    {
+      "modificationTime": "2020-08-31T08:10:35.762Z",
+      "id": "i435068119E014662BFB4BB8A367BB411",
+      "type": "dataSource",
+      "defaultName": "Audit",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i435068119E014662BFB4BB8A367BB411"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i435068119E014662BFB4BB8A367BB411/connections"
+        }
+      ],
+      "creationTime": "2006-09-22T08:15:34.202Z"
+    },
+    {
+      "modificationTime": "2020-09-30T15:07:49.696Z",
+      "id": "i7A040EF84BAD47ED9908C395C7DE72EA",
+      "type": "dataSource",
+      "defaultName": "Cursus",
+      "version": 3,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#reporting",
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i7A040EF84BAD47ED9908C395C7DE72EA"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i7A040EF84BAD47ED9908C395C7DE72EA/connections"
+        }
+      ],
+      "creationTime": "2020-01-09T10:36:54.445Z"
+    },
+    {
+      "modificationTime": "2021-01-25T13:05:45.315Z",
+      "id": "i74C5E939175C45BCB7EFC63C423B6BC1",
+      "type": "dataSource",
+      "defaultName": "MotionBI",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i74C5E939175C45BCB7EFC63C423B6BC1"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i74C5E939175C45BCB7EFC63C423B6BC1/connections"
+        }
+      ],
+      "creationTime": "2020-05-12T08:25:29.836Z"
+    },
+    {
+      "modificationTime": "2020-07-10T10:26:26.942Z",
+      "id": "iA87308B3DB634B8FBACA867B8C7ED915",
+      "type": "dataSource",
+      "defaultName": "testbastiaan",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA87308B3DB634B8FBACA867B8C7ED915"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iA87308B3DB634B8FBACA867B8C7ED915/connections"
+        }
+      ],
+      "creationTime": "2020-07-10T10:26:26.833Z"
+    },
+    {
+      "modificationTime": "2020-08-06T08:06:47.182Z",
+      "id": "iB8B51660D7B549FE86C736D940D3B7A1",
+      "type": "dataSource",
+      "defaultName": "Motion Generic (GLOBAL)",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB8B51660D7B549FE86C736D940D3B7A1"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iB8B51660D7B549FE86C736D940D3B7A1/connections"
+        }
+      ],
+      "creationTime": "2020-08-06T08:06:47.104Z"
+    },
+    {
+      "modificationTime": "2020-11-19T08:18:49.984Z",
+      "id": "i4E2D2131D3B145CF97DF3C8961EBEAA9",
+      "type": "dataSource",
+      "defaultName": "RIVM Verpleeghuizen",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i4E2D2131D3B145CF97DF3C8961EBEAA9"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i4E2D2131D3B145CF97DF3C8961EBEAA9/connections"
+        }
+      ],
+      "creationTime": "2020-11-19T08:18:49.922Z"
+    },
+    {
+      "modificationTime": "2020-09-17T10:15:40.721Z",
+      "id": "i3CFC172685274E9694B3493BA0542475",
+      "type": "dataSource",
+      "defaultName": "RIVM",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i3CFC172685274E9694B3493BA0542475"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i3CFC172685274E9694B3493BA0542475/connections"
+        }
+      ],
+      "creationTime": "2020-09-12T13:21:11.729Z"
+    },
+    {
+      "modificationTime": "2020-09-14T13:10:55.858Z",
+      "id": "i5F5C33EF10044A9D9BA20A51BE7B90B2",
+      "type": "dataSource",
+      "defaultName": "REST Example",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i5F5C33EF10044A9D9BA20A51BE7B90B2"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i5F5C33EF10044A9D9BA20A51BE7B90B2/connections"
+        }
+      ],
+      "creationTime": "2020-09-14T13:10:55.795Z"
+    },
+    {
+      "modificationTime": "2020-09-16T12:12:20.889Z",
+      "id": "i60EABE6D408A4A1EA35987AD57EAE1C0",
+      "type": "dataSource",
+      "defaultName": "CBS Odata",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i60EABE6D408A4A1EA35987AD57EAE1C0"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i60EABE6D408A4A1EA35987AD57EAE1C0/connections"
+        }
+      ],
+      "creationTime": "2020-09-15T08:24:15.416Z"
+    },
+    {
+      "modificationTime": "2020-09-25T10:14:04.559Z",
+      "id": "i9EABFC183C70474EB4919720919588F1",
+      "type": "dataSource",
+      "defaultName": "RIVM Covid19 Karakteristieken",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i9EABFC183C70474EB4919720919588F1"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i9EABFC183C70474EB4919720919588F1/connections"
+        }
+      ],
+      "creationTime": "2020-09-25T10:14:04.450Z"
+    },
+    {
+      "modificationTime": "2020-09-25T11:16:51.731Z",
+      "id": "i1162C460A21246B787D5A3AD96D927AD",
+      "type": "dataSource",
+      "defaultName": "RIVM Covid19 Afvalwatersurveillance",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i1162C460A21246B787D5A3AD96D927AD"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i1162C460A21246B787D5A3AD96D927AD/connections"
+        }
+      ],
+      "creationTime": "2020-09-25T11:16:51.669Z"
+    },
+    {
+      "modificationTime": "2020-10-01T13:22:58.350Z",
+      "id": "i249CE2C117E74084BB933092505F3BBB",
+      "type": "dataSource",
+      "defaultName": "RIVM besmettingen",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i249CE2C117E74084BB933092505F3BBB"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i249CE2C117E74084BB933092505F3BBB/connections"
+        }
+      ],
+      "creationTime": "2020-10-01T13:22:58.303Z"
+    },
+    {
+      "modificationTime": "2020-12-10T09:14:05.224Z",
+      "id": "i8561ED36D6184443B5518E712B1686A1",
+      "type": "dataSource",
+      "defaultName": "Leefomgeving en Zaken api",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i8561ED36D6184443B5518E712B1686A1"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i8561ED36D6184443B5518E712B1686A1/connections"
+        }
+      ],
+      "creationTime": "2020-10-12T12:26:25.979Z"
+    },
+    {
+      "modificationTime": "2020-10-19T11:21:05.432Z",
+      "id": "i7B7395DE5966492FB57E5B58BC69DAC4",
+      "type": "dataSource",
+      "defaultName": "Verkopen",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i7B7395DE5966492FB57E5B58BC69DAC4"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i7B7395DE5966492FB57E5B58BC69DAC4/connections"
+        }
+      ],
+      "creationTime": "2020-10-19T11:21:05.385Z"
+    },
+    {
+      "modificationTime": "2020-11-24T14:12:54.668Z",
+      "id": "i6E5D14C0F517418CB7063A91AF6F822A",
+      "type": "dataSource",
+      "defaultName": "CBS-REST API",
+      "version": 2,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i6E5D14C0F517418CB7063A91AF6F822A"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i6E5D14C0F517418CB7063A91AF6F822A/connections"
+        }
+      ],
+      "creationTime": "2020-10-15T09:39:34.290Z"
+    },
+    {
+      "modificationTime": "2020-10-28T09:14:37.900Z",
+      "id": "i18CE559A144F42A8840F61B2CD66A7A3",
+      "type": "dataSource",
+      "defaultName": "RIVM R getal",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i18CE559A144F42A8840F61B2CD66A7A3"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i18CE559A144F42A8840F61B2CD66A7A3/connections"
+        }
+      ],
+      "creationTime": "2020-10-28T09:14:37.837Z"
+    },
+    {
+      "modificationTime": "2020-11-03T08:28:15.520Z",
+      "id": "iF3A251B239064B70B4D5F286E81F0B4E",
+      "type": "dataSource",
+      "defaultName": "St_NICE_Covid_zkh_opnames",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iF3A251B239064B70B4D5F286E81F0B4E"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/iF3A251B239064B70B4D5F286E81F0B4E/connections"
+        }
+      ],
+      "creationTime": "2020-11-03T08:28:14.379Z"
+    },
+    {
+      "modificationTime": "2020-11-04T10:28:53.052Z",
+      "id": "i09AA0923CBE348C8A5AF4FD8A281ED20",
+      "type": "dataSource",
+      "defaultName": "Zaaksysteem.net",
+      "version": 1,
+      "hidden": false,
+      "disabled": false,
+      "permissions": [
+        "execute",
+        "read",
+        "setPolicy",
+        "traverse",
+        "write"
+      ],
+      "capabilities": [
+        "http://developer.cognos.com/ceba/constants/dataSourceCapabilityEnum#webBasedModeling"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i09AA0923CBE348C8A5AF4FD8A281ED20"
+        },
+        {
+          "rel": "connections",
+          "type": "application/json",
+          "href": "/api/v1/datasources/i09AA0923CBE348C8A5AF4FD8A281ED20/connections"
+        }
+      ],
+      "creationTime": "2020-11-04T10:28:52.974Z"
+    }
+  ]
+}

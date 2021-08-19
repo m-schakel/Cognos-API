@@ -1,0 +1,13 @@
+
+
+^User ID:^?Password:;LOCAL;D2;DSN=;UID=%s;PWD=%s;@ASYNC=0@0/0@COLSEQ=IBM_JD_CNX_STR:^User ID:^?Password:;LOCAL;JD-D2;URL=jdbc:db2://localhost:50000/GS_DB;DRIVER_NAME=com.ibm.db2.jcc.DB2Driver;
+
+^User ID:^?Password:;LOCAL;JD-OR;URL=jdbc:oracle:thin:@//db-gda71.its.centric.lan:1521/cpimat07;DRIVER_NAME=oracle.jdbc.OracleDriver;
+
+^User ID:^?Password:;LOCAL;OR;ORACLE@%s@cpimat07/%s@COLSEQ=IBM_JD_CNX_STR:^User ID:^?Password:;LOCAL;JD-OR;URL=jdbc:oracle:thin:@//db-gda71.its.centric.lan:1521/cpimat07;DRIVER_NAME=oracle.jdbc.OracleDriver
+
+^User ID:^?Password:;LOCAL;OR;ORACLE@%s@cpimat07/%s@COLSEQ=IBM_JD_CNX_STR:^User ID:^?Password:;LOCAL;JD-OR;URL=jdbc:oracle:thin:@//db-gda71.its.centric.lan:1521/cpimat07;DRIVER_NAME=oracle.jdbc.OracleDriver
+
+jdbc:oracle:thin:@//db-gda71.its.centric.lan:1521/cpimat07
+
+oracle.jdbc.OracleDriver

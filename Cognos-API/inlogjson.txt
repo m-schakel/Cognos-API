@@ -1,0 +1,16 @@
+{
+  "parameters": [
+    {
+      "name": "CAMNamespace",
+      "value": "its"
+    },
+    {
+      "name": "CAMUsername",
+      "value": "mschakel"
+    },
+    {
+      "name": "CAMPassword",
+      "value": ""
+    }
+  ]
+}
